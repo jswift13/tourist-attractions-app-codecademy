@@ -17,7 +17,7 @@ From the "Build Python Web Apps with Flask" course on Codecademy.
 - 🌈 Responsive, pastel, pixel-art UI
 
 ## 📸 Screenshots
-<img src="https://github.com/user-attachments/assets/2fb2cdb9-7711-4161-a402-4824dd87a63b" width="420"/> <img src="https://github.com/user-attachments/assets/a3428b10-d2b3-4c1c-8316-70ca3f8f047f" width="420"/>
+<img src="https://github.com/user-attachments/assets/2fb2cdb9-7711-4161-a402-4824dd87a63b" width="400"/> <img src="https://github.com/user-attachments/assets/a3428b10-d2b3-4c1c-8316-70ca3f8f047f" width="400"/>
 
 ## 🗂️ Project Structure
 
